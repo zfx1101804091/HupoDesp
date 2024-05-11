@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="desp-user-api" />
+        <module name="desp-auth" />
+        <module name="desp-common" />
+        <module name="desp-user" />
+        <module name="desp-system-api" />
+        <module name="desp-gateway" />
+        <module name="desp-system" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="desp-auth" options="-parameters" />
+      <module name="desp-common" options="-parameters" />
+      <module name="desp-gateway" options="-parameters" />
+      <module name="desp-system" options="-parameters" />
+      <module name="desp-system-api" options="-parameters" />
+      <module name="desp-user" options="-parameters" />
+      <module name="desp-user-api" options="-parameters" />
+    </option>
+  </component>
+</project>
