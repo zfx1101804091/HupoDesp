@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfea754-6a9d-4dbb-907f-3a40b51b4de0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GitCommitMessageStorage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HupoDesp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-auth/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-auth/src/main/java/com/hupo/auth/AuthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/target/desp-common.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/target/desp-common.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/src/main/java/com/hupo/gateway/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/classes/com/hupo/gateway/GatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/desp-gateway.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/desp-gateway.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-ops/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service-api/desp-system-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service-api/desp-user-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service/desp-system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service/desp-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desp-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GitCommitMessageStorage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GitCommitMessageStorage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +49,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -129,7 +100,31 @@
       <option name="presentableId" value="Default" />
       <updated>1715409626939</updated>
       <workItem from="1715409628148" duration="3335000" />
+      <workItem from="1715413012570" duration="4909000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(HupoDesp): HupoDesp初始化&#10;&#10;HupoDesp初始化">
+      <created>1715413184585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715413184585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(HupoDesp): HupoDesp初始化&#10;&#10;HupoDesp初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(HupoDesp): HupoDesp初始化&#10;&#10;HupoDesp初始化" />
   </component>
 </project>
